@@ -4,3 +4,4 @@ node_modules
 readlink.exe.stackdump
 yarn-error.log
 dist/
+.idea/
